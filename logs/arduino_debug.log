@@ -1,8 +1,0 @@
-[2025-03-22 01:15:09] [ARDUINO] Iniciando servidor WebSocket con puerto: COM6, baudrate: 9600
-Contexto: {"script_path":"D:\\GitHub\\mvc-arduino-php/config/websocket_server.php","log_file":"D:\\GitHub\\mvc-arduino-php/logs/websocket.log","sistemaOperativo":"WINNT","phpVersion":"8.2.12","userRunning":"miran","serverSoftware":"Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12","phpExtensions":"Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_pgsql, pdo_sqlite, pgsql, dio, Phar, ftp","phpUid":0,"phpGid":0}
-Sistema: OS=WINNT, PHP=8.2.12, Puerto=, Baudrate=
-----------------------------------------
-[2025-03-22 01:15:09] [ARDUINO] Ejecutando comando: start /B "websocket_server" "D:\xampp\apache\bin\httpd.exe" "D:\GitHub\mvc-arduino-php/config/websocket_server.php" "COM6" 9600 false
-Contexto: {"sistemaOperativo":"WINNT","phpVersion":"8.2.12","userRunning":"miran","serverSoftware":"Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12","phpExtensions":"Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_pgsql, pdo_sqlite, pgsql, dio, Phar, ftp","phpUid":0,"phpGid":0}
-Sistema: OS=WINNT, PHP=8.2.12, Puerto=, Baudrate=
-----------------------------------------

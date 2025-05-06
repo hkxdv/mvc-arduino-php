@@ -7,3 +7,6 @@ Thumbs.db
 
 # Carpeta de dependencias de Composer
 /vendor/
+
+# Carpeta de logs
+/logs/
